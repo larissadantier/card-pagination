@@ -35,7 +35,7 @@ Tecnologias utilizadas durante o projeto:
 
 ## 💻 Projeto
 
-O Contacts Pagination foi um mini-projeto para um teste de vaga, consumindo uma API utilizando fetch e a construção de uma paginação usando Reacts Hooks 😄.
+O Contacts Pagination foi um mini-projeto para um teste de vaga, consumindo uma API utilizando fetch e implementando uma paginação usando Reacts Hooks 😄.
 
 Acesse a página [aqui](https://keen-mirzakhani-bddc30.netlify.app/)
 
