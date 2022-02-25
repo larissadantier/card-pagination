@@ -25,6 +25,7 @@ Tecnologias utilizadas durante o projeto:
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [JavaScript](https://www.javascript.com/)
+- [Netlify](https://www.netlify.com/) 
 
 ## ⭐ Conceitos implantados
 - React Hooks
@@ -35,6 +36,8 @@ Tecnologias utilizadas durante o projeto:
 ## 💻 Projeto
 
 O Contacts Pagination foi um mini-projeto para um teste de vaga, consumindo uma API utilizando fetch e a construção de uma paginação usando Reacts Hooks 😄.
+
+Acesse a página [aqui](https://keen-mirzakhani-bddc30.netlify.app/)
 
 ## 😎 Iniciando 
 
