@@ -23,8 +23,8 @@
 Tecnologias utilizadas durante o projeto:
 
 - [ReactJS](https://pt-br.reactjs.org/)
-- [Styled Components](https://styled-components.com/)
 - [JavaScript](https://www.javascript.com/)
+- [Styled Components](https://styled-components.com/)
 - [Netlify](https://www.netlify.com/) 
 
 ## ⭐ Conceitos implantados
