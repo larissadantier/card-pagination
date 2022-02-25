@@ -3,7 +3,7 @@ import { Card, Container, Header, Button } from './styles';
 
 export default function Home(){
   const [users, setUsers] = useState([]);
-  const [usersPerPage, setUsersPerPage] = useState(4);
+  const [usersPerPage,] = useState(4);
   const [currentPage, setCurrentPage] = useState(0);
 
   const pages = Math.ceil(users.length / usersPerPage);
