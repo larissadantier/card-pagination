@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <a href="https://ibb.co/pfqBYFw"><img src="https://i.ibb.co/StS4FCy/logo-match-externo-black-4x.png" alt="logo" border="0" width="300"></a>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+<p align="center">
+  <a href="https://ibb.co/YWPMYJq"><img src="https://i.ibb.co/Jdm408M/card-pagination.png" alt="card-pagination" border="0"></a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Tecnologias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Tecnologias utilizadas durante o projeto:
 
-### `yarn test`
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [JavaScript](https://www.javascript.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⭐ Conceitos implantados
+- React Hooks
+- Responsividade
+- Paginação
+- Consumo de API - fetch
 
-### `yarn build`
+## 💻 Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O Contacts Pagination foi um mini-projeto para um teste de vaga, consumindo uma API utilizando fetch e a construção de uma paginação usando Reacts Hooks 😄.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 😎 Iniciando 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📖 Para rodar o projeto localmente você precisará seguir algumas instruções.
 
-### `yarn eject`
+- É necessário que o <a href="https://nodejs.org/en/">NodeJS</a> esteja instalado em sua máquina.
+- É necessário utilizar <a href="https://classic.yarnpkg.com/en/">Yarn</a> ou <a href="https://www.npmjs.com/">Npm</a> para a instalação de pacotes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Instalação
+```bash
+# Clone o repositório
+git clone https://github.com/larissadantier/card-pagination.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Instale todos os pacotes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Npm
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Yarn
+yarn install
 
-## Learn More
+```
+## Contribuições
+```
+Você quer contribuir para o projeto e não sabe como? 💜
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Dê Fork no projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Comite as alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Faça o push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+```
+## 📝 Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👀 Autor
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/larissadantier">
+   <img align="center" style="border-radius: 100%;" src="https://avatars3.githubusercontent.com/u/61429963?s=400&u=0182f2fa598437842398e2f08f5dc6622df0b432&v=4" width="100px;" alt=""/>
+  </a>
+</div>
+<br/>
+<p align="center">Desenvolvido por Larissa Dantier 🚀 </p> 
+<p align="center">Entre em contato! 👏 </p>
+<div align="center">
+<a href="https://www.linkedin.com/in/larissadantier/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/larissa.dantier/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="mailto:larissa_dantier@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+</div>
+    
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
